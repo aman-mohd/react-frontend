@@ -1,1 +1,1 @@
-# react-frontend uding TS
+# Create React App with Typescript
